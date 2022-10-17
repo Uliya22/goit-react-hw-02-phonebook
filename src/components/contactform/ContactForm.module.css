@@ -1,0 +1,52 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  width: 480px;
+  border: 2px solid #4f4f8c;
+  border-radius: 6px;
+  padding: 40px 30px;
+  background-color: #b1ceef;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  font-weight: 400;
+  color: #4f4f8c;
+}
+
+.input {
+  width: 400px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  border: 1pt solid #4f4f8c;
+  border-radius: 4px;
+}
+
+.input:focus {
+  outline: 2px solid #1b74da;
+}
+
+.inputButton {
+  width: 150px;
+  height: 40px;
+  border: 2px solid #4f4f8c;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #4f4f8c;
+  cursor: pointer;
+}
+
+.inputButton:hover {
+  background-color: #4f4f8c;
+  color: white;
+}
+
+.listContainer {
+  width: 600px;
+  margin-bottom: 40px;
+  padding-top: 40px;
+}

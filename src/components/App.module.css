@@ -1,0 +1,23 @@
+.wrapper {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 180px;
+  min-height: 600px;
+  background-image: url(../img/telephone_booth.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.title {
+  margin: 20px 0;
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+}
+
+.listTitle {
+  margin: 20px 0;
+  font-size: 26px;
+  font-weight: 700;
+  color: white;
+}
