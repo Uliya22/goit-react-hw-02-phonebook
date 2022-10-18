@@ -9,6 +9,8 @@
   background-color: #b1ceef;
 }
 .listItem {
+  display: flex;
+  justify-content: space-between;
   margin-bottom: 5px;
 }
 
